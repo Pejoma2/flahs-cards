@@ -38,9 +38,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-> 
+> Play with study cards, question is on one side, answer is in the other side, just click on a card!
 
-- **[Play with study cards, question is on one side, answer is in the other side, just click on a card!]**
+- **[]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
